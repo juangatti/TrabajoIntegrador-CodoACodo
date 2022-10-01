@@ -28,6 +28,12 @@ margin-right: 2rem;
 }
 
 
+#image-banner{
+    background: url("../imagenes/honolulu.jpg") no-repeat;
+    background-size: 100%;
+    object-fit: contain;
+}
+
 #footer-container{
     background-image: linear-gradient(
   90deg,
@@ -43,4 +49,5 @@ margin-right: 2rem;
   hsl(200deg 61% 27%) 100%
 );
 color: white;
+height: 100px;
 }
