@@ -29,9 +29,9 @@ margin-right: 2rem;
 
 
 #image-banner{
-    background: url("../imagenes/honolulu.jpg") no-repeat;
-    background-size: 100%;
-    object-fit: contain;
+    background: url("../imagenes/honolulu.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #footer-container{
